@@ -15,3 +15,23 @@ body{
         color: #00ff00;
        
 }
+@media only screen and (max-width: 900px) and (min-width:100px){
+  body {
+        background-image: url(phone-hacker.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+      
+      
+  }
+}
+/* @media only screen and (max-width: 1000px) and (min-width:600px){
+  body {
+    background-image: url(anon-hack.webp);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    /* height: 1000px;
+    width: 100vh; */
+/*       
+  }
+} */ 
